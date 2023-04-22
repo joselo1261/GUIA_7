@@ -5,13 +5,14 @@
  */
 package ejercicio3_guia7_extra;
 
-import ejercicio3_guia_extra.entidad.Juego;
+import ejercicio3_guia7_extra.entidad.Juego;
+
 
 /**
  *
  * @author Joselo
  */
-public class Ejercicio3_Guia_extra {
+public class Ejercicio3_Guia7_extra {
 
     /**
      * @param args the command line arguments
